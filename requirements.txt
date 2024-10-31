@@ -1,0 +1,7 @@
+pandas
+striprtf
+germansentiment
+python-terrier
+beautifulsoup4
+pysbd
+argparse
